@@ -3,7 +3,7 @@ Automatic transcriptions of various segments of a small Carnatic piece (Indian C
 
 My Contribution:
 - The mathematics behind the algorithms, and the MATLAB code files were developed by Dr. Venkata Subramanian Viraraghavan.
-- I worked on developing the Python Code equivalents for the MATLAB codes, with the aid of SMOP Small MATLAB and Ocatave to Python Converter (https://github.com/victorlei/smop)". I first designed a Function Call Tree (Function Call Tree.xlsx) and then compared the outputs stage-by-stage of the MATLAB and Python files, and endeavored towards creating PYTHON file equivalents. The work is still in progress.
+- I worked on developing the Python Code equivalents for the MATLAB codes, with the aid of SMOP Small MATLAB and Octave to Python Converter (https://github.com/victorlei/smop)". I first designed a Function Call Tree (Function Call Tree.xlsx) and then compared the outputs stage-by-stage of the MATLAB and Python files, and endeavored towards creating PYTHON file equivalents. The work is still in progress.
 - In essence, a contribution to the Backend of the webpage https://www.iitm.ac.in/donlab/Music_Project/cm_transcription/ was done by me. 
 
 Description:
